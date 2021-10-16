@@ -26,6 +26,3 @@ Here's a walkthrough of implemented user stories:
 2nd half : https://imgur.com/eEru1a1
 signing up : https://imgur.com/FaXNtsn
 
-<img src='https://imgur.com/reMiuUu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/eEru1a1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/FaXNtsn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
