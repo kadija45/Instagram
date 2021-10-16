@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 1st half : https://imgur.com/reMiuUu
 2nd half : https://imgur.com/eEru1a1
 signing up : https://imgur.com/FaXNtsn
