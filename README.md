@@ -21,8 +21,10 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 Video Walkthrough
-https://imgur.com/Kay9AwH.gif
+https://imgur.com/Kay9AwH
 
 
 
